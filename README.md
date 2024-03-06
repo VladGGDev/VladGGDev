@@ -1,5 +1,4 @@
-👋 Hi, I’m @VladGGDev
-I make games in Unity and I want to share them with the world...
+👋 Hi, I’m @VladGGDev. I make various code related projects and I want to share them with the world...
 
 But I need backups in case something goes wrong 😳
 
